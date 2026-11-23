@@ -17,7 +17,7 @@ Structura proiectului
 README.md – prezentarea proiectului.
 
 description.txt – descrierea generală.
-
+Proiectul utilizează Git și GitHub pentru urmărirea modificărilor și păstrarea istoricului versiunilor.
 plan.md – planificarea etapelor.
 
 Autor
